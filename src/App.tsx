@@ -99,6 +99,18 @@ function View() {
       <ThemeProvider theme={theme}>
         <JBrowseLinearGenomeView viewState={viewState} />
       </ThemeProvider>
+      <h3>Code</h3>
+      <p>
+        The code for this app is available at{' '}
+        <a
+          href="https://github.com/garrettjstevens/jbrowse-react-linear-genome-view-demo"
+          target="_blank"
+          rel="noreferrer"
+        >
+          https://github.com/garrettjstevens/jbrowse-react-linear-genome-view-demo
+        </a>
+        .
+      </p>
       <h3>Control the view</h3>
       <div>
         <p>
