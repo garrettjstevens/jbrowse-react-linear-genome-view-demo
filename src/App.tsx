@@ -2,15 +2,11 @@ import React, { useState, useEffect } from 'react'
 import 'fontsource-roboto'
 import {
   createViewState,
-  createJBrowseTheme,
   JBrowseLinearGenomeView,
-  ThemeProvider,
 } from '@jbrowse/react-linear-genome-view'
 
 import assembly from './assembly'
 import tracks from './tracks'
-
-const theme = createJBrowseTheme()
 
 const defaultSession = {
   name: 'this session',
@@ -96,9 +92,7 @@ function View() {
   return (
     <>
       <h1>JBrowse 2 React Linear Genome View Demo</h1>
-      <ThemeProvider theme={theme}>
-        <JBrowseLinearGenomeView viewState={viewState} />
-      </ThemeProvider>
+      <JBrowseLinearGenomeView viewState={viewState} />
       <h3>Code</h3>
       <p>
         The code for this app is available at{' '}
