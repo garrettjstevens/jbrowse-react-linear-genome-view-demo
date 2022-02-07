@@ -1,26 +1,30 @@
 {
   "files": {
+    "static/js/0.20ccc981.chunk.js": "/jbrowse-react-linear-genome-view-demo/static/js/0.20ccc981.chunk.js",
+    "static/js/0.20ccc981.chunk.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/0.20ccc981.chunk.js.map",
     "main.css": "/jbrowse-react-linear-genome-view-demo/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/jbrowse-react-linear-genome-view-demo/static/js/main.e118df17.chunk.js",
-    "main.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/main.e118df17.chunk.js.map",
-    "runtime-main.js": "/jbrowse-react-linear-genome-view-demo/static/js/runtime-main.3119af3f.js",
-    "runtime-main.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/runtime-main.3119af3f.js.map",
-    "static/css/2.9d14c86f.chunk.css": "/jbrowse-react-linear-genome-view-demo/static/css/2.9d14c86f.chunk.css",
-    "static/js/2.38037115.chunk.js": "/jbrowse-react-linear-genome-view-demo/static/js/2.38037115.chunk.js",
-    "static/js/2.38037115.chunk.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/2.38037115.chunk.js.map",
-    "static/js/3.d9ad5a49.chunk.js": "/jbrowse-react-linear-genome-view-demo/static/js/3.d9ad5a49.chunk.js",
-    "static/js/3.d9ad5a49.chunk.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/3.d9ad5a49.chunk.js.map",
+    "main.js": "/jbrowse-react-linear-genome-view-demo/static/js/main.261ca591.chunk.js",
+    "main.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/main.261ca591.chunk.js.map",
+    "runtime-main.js": "/jbrowse-react-linear-genome-view-demo/static/js/runtime-main.85c5c4aa.js",
+    "runtime-main.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/runtime-main.85c5c4aa.js.map",
+    "static/css/3.53d52b9e.chunk.css": "/jbrowse-react-linear-genome-view-demo/static/css/3.53d52b9e.chunk.css",
+    "static/js/3.410af346.chunk.js": "/jbrowse-react-linear-genome-view-demo/static/js/3.410af346.chunk.js",
+    "static/js/3.410af346.chunk.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/3.410af346.chunk.js.map",
+    "static/js/4.cff647a8.chunk.js": "/jbrowse-react-linear-genome-view-demo/static/js/4.cff647a8.chunk.js",
+    "static/js/4.cff647a8.chunk.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/4.cff647a8.chunk.js.map",
+    "static/js/5.e5063420.chunk.js": "/jbrowse-react-linear-genome-view-demo/static/js/5.e5063420.chunk.js",
+    "static/js/5.e5063420.chunk.js.map": "/jbrowse-react-linear-genome-view-demo/static/js/5.e5063420.chunk.js.map",
     "index.html": "/jbrowse-react-linear-genome-view-demo/index.html",
-    "static/css/2.9d14c86f.chunk.css.map": "/jbrowse-react-linear-genome-view-demo/static/css/2.9d14c86f.chunk.css.map",
+    "static/css/3.53d52b9e.chunk.css.map": "/jbrowse-react-linear-genome-view-demo/static/css/3.53d52b9e.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/jbrowse-react-linear-genome-view-demo/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.38037115.chunk.js.LICENSE.txt": "/jbrowse-react-linear-genome-view-demo/static/js/2.38037115.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/jbrowse-react-linear-genome-view-demo/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+    "static/js/3.410af346.chunk.js.LICENSE.txt": "/jbrowse-react-linear-genome-view-demo/static/js/3.410af346.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/jbrowse-react-linear-genome-view-demo/static/media/roboto-vietnamese-400-normal.c0bec65d.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.3119af3f.js",
-    "static/css/2.9d14c86f.chunk.css",
-    "static/js/2.38037115.chunk.js",
+    "static/js/runtime-main.85c5c4aa.js",
+    "static/css/3.53d52b9e.chunk.css",
+    "static/js/3.410af346.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.e118df17.chunk.js"
+    "static/js/main.261ca591.chunk.js"
   ]
 }
