@@ -15,50 +15,14 @@ const defaultSession = {
     type: 'LinearGenomeView',
     tracks: [
       {
-        id: '7PWx6ki1_',
-        type: 'ReferenceSequenceTrack',
-        configuration: 'GRCh38-ReferenceSequenceTrack',
+        id: 'cQ_LgV6ZC',
+        type: 'MultiQuantitativeTrack',
+        configuration: 'microarray_multi',
         displays: [
           {
-            id: 'pa_7lx6FDh',
-            type: 'LinearReferenceSequenceDisplay',
-            height: 210,
-            configuration:
-              'GRCh38-ReferenceSequenceTrack-LinearReferenceSequenceDisplay',
-          },
-        ],
-      },
-      {
-        id: 'KHwe41KXk',
-        type: 'AlignmentsTrack',
-        configuration: 'NA12878.alt_bwamem_GRCh38DH.20150826.CEU.exome',
-        displays: [
-          {
-            id: '_-kwYVczT8',
-            type: 'LinearAlignmentsDisplay',
-            PileupDisplay: {
-              id: '1HTk32IDZJ',
-              type: 'LinearPileupDisplay',
-              height: 100,
-              configuration: {
-                type: 'LinearPileupDisplay',
-                displayId:
-                  'NA12878.alt_bwamem_GRCh38DH.20150826.CEU.exome-LinearAlignmentsDisplay_pileup_xyz',
-              },
-            },
-            SNPCoverageDisplay: {
-              id: 'ZBXRXmuDrc',
-              type: 'LinearSNPCoverageDisplay',
-              height: 45,
-              configuration: {
-                type: 'LinearSNPCoverageDisplay',
-                displayId:
-                  'NA12878.alt_bwamem_GRCh38DH.20150826.CEU.exome-LinearAlignmentsDisplay_snpcoverage_xyz',
-              },
-            },
-            configuration:
-              'NA12878.alt_bwamem_GRCh38DH.20150826.CEU.exome-LinearAlignmentsDisplay',
-            height: 250,
+            id: '7Rgc4pcdJM',
+            type: 'MultiLinearWiggleDisplay',
+            configuration: 'microarray_multi-MultiLinearWiggleDisplay',
           },
         ],
       },
